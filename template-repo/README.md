@@ -1,4 +1,4 @@
-# [Nombre del proyecto o script]
+# [Nombre del script]
 
 
 [Descripción de la funcionalidad del script. Por ejemplo:
@@ -49,8 +49,8 @@ python -m unittest test_sumador.py
 
 ## Como citar
 
-[Si utiliza este script en su trabajo, por favor cite: [información de citación].]
+[Si utiliza este script en su trabajo, por favor cite de la siguiente manera: [información de citación].]
 
 ## Contáctenos
 
-[Si tiene problemas o preguntas, por favor, cree un isse en este repositorio o póngase en contacto con nosotros en: [información de contacto].]
+[Si tiene problemas o preguntas, por favor, cree un issue en este repositorio o póngase en contacto con nosotros en: [información de contacto].]
