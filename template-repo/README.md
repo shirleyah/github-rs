@@ -1,12 +1,12 @@
 # [Nombre del script]
 
 
-[Descripción de la funcionalidad del script. Por ejemplo:
-Este es un script de Python diseñado para leer números (enteros o decimales) de un archivo y sumarlos.]  
+[Descripcion de la funcionalidad del script. Por ejemplo:
+Este es un script de Python dise??ado para leer n??meros (enteros o decimales) de un archivo y sumarlos.]  
 
 ## Uso del script
 
-[Describir la manera en que se usa/ejecuta el script, especificando los parámetros que recibe, archivos o valores de entrada, por ejemplo:
+[Describir la manera en que se usa/ejecuta el script, especificando los par??metros que recibe, archivos o valores de entrada, por ejemplo:
 
 El script acepta un solo argumento, el nombre del archivo a leer:
 
@@ -14,17 +14,17 @@ El script acepta un solo argumento, el nombre del archivo a leer:
 python sumador.py -inputfile [archivo]
 ```
 
-donde `[archivo]` es el nombre del archivo que contiene los números a sumar. El archivo debe contener un número por línea.
+donde `[archivo]` es el nombre del archivo que contiene los n??meros a sumar. El archivo debe contener un n??mero por l??nea.
 
 ]  
 
 ## Salida del script
 
-[Describir el resultado que se obtendrá al ejecutar el script, por ejemplo: El script imprimirá la suma de los números en la consola.] 
+[Describir el resultado que se obtendr?? al ejecutar el script, por ejemplo: El script imprimir?? la suma de los n??meros en la consola.] 
 
 ## Control de errores
 
-[Describir los posibles errores que pueden darse al ejecutar el script, por ejemplo: Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son números, el script generará un error.]  
+[Describir los posibles errores que pueden darse al ejecutar el script, por ejemplo: Si el archivo proporcionado no existe, el script generar?? un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son n??meros, el script generar?? un error.]  
 
 ## Pruebas finales
 
@@ -35,22 +35,22 @@ python -m unittest test_sumador.py
 ]  
 
 
-## Metadatos y documentación
+## Metadatos y documentaci??n
 
-[Este README ofrece información de uso básico. Para obtener información más detallada sobre el diseño y la implementación del script, consulte [Enlace a la documentación].]
+[Este README ofrece informaci??n de uso b??sico. Para obtener informaci??n m??s detallada sobre el dise??o y la implementaci??n del script, consulte [Enlace a la documentaci??n].]
 
-## Código fuente
+## C??digo fuente
 
-[El código fuente está disponible en este repositorio. Se recibe con satisfacción cualquier contribución o sugerencia a través de pull request.]
+[El c??digo fuente est?? disponible en este repositorio. Se recibe con satisfacci??n cualquier contribuci??n o sugerencia a trav??s de pull request.]
 
-### Términos de uso
+### T??rminos de uso
 
-[Este script está disponible bajo la licencia [nombre de la licencia]. Consulte el archivo LICENSE para obtener más detalles.]
+[Este script est?? disponible bajo la licencia [nombre de la licencia]. Consulte el archivo LICENSE para obtener m??s detalles.]
 
 ## Como citar
 
-[Si utiliza este script en su trabajo, por favor cite de la siguiente manera: [información de citación].]
+[Si utiliza este script en su trabajo, por favor cite de la siguiente manera: [informaci??n de citaci??n].]
 
-## Contáctenos
+## Cont??ctenos
 
-[Si tiene problemas o preguntas, por favor, cree un issue en este repositorio o póngase en contacto con nosotros en: [información de contacto].]
+[Si tiene problemas o preguntas, por favor, cree un issue en este repositorio o p??ngase en contacto con nosotros en: [informaci??n de contacto].]
