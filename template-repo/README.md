@@ -2,11 +2,11 @@
 
 
 [Descripcion de la funcionalidad del script. Por ejemplo:
-Este es un script de Python dise??ado para leer n??meros (enteros o decimales) de un archivo y sumarlos.]  
+Este es un script de Python disenado para leer numeros (enteros o decimales) de un archivo y sumarlos.]  
 
 ## Uso del script
 
-[Describir la manera en que se usa/ejecuta el script, especificando los par??metros que recibe, archivos o valores de entrada, por ejemplo:
+[Describir la manera en que se usa/ejecuta el script, especificando los parametros que recibe, archivos o valores de entrada, por ejemplo:
 
 El script acepta un solo argumento, el nombre del archivo a leer:
 
@@ -14,17 +14,17 @@ El script acepta un solo argumento, el nombre del archivo a leer:
 python sumador.py -inputfile [archivo]
 ```
 
-donde `[archivo]` es el nombre del archivo que contiene los n??meros a sumar. El archivo debe contener un n??mero por l??nea.
+donde `[archivo]` es el nombre del archivo que contiene los numeros a sumar. El archivo debe contener un numero por linea.
 
 ]  
 
 ## Salida del script
 
-[Describir el resultado que se obtendr?? al ejecutar el script, por ejemplo: El script imprimir?? la suma de los n??meros en la consola.] 
+[Describir el resultado que se obtendra al ejecutar el script, por ejemplo: El script imprimira la suma de los numeros en la consola.] 
 
 ## Control de errores
 
-[Describir los posibles errores que pueden darse al ejecutar el script, por ejemplo: Si el archivo proporcionado no existe, el script generar?? un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son n??meros, el script generar?? un error.]  
+[Describir los posibles errores que pueden darse al ejecutar el script, por ejemplo: Si el archivo proporcionado no existe, el script generara un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son numeros, el script generara un error.]  
 
 ## Pruebas finales
 
@@ -35,9 +35,9 @@ python -m unittest test_sumador.py
 ]  
 
 
-## Metadatos y documentaci??n
+## Metadatos y documentacion
 
-[Este README ofrece informaci??n de uso b??sico. Para obtener informaci??n m??s detallada sobre el dise??o y la implementaci??n del script, consulte [Enlace a la documentaci??n].]
+[Este README ofrece informacion de uso basico. Para obtener informacion mas detallada sobre el diseno y la implementacion del script, consulte [Enlace a la documentacion].]
 
 ## C??digo fuente
 
