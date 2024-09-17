@@ -1,7 +1,7 @@
-# [Nombre del script/s]
+# [Nombre del script]
 
 
-[Agragar la descripcion de la funcionalidad del script. Por ejemplo:
+[Agregar la descripcion de la funcionalidad del script. Por ejemplo:
 Este es un script de Python disenado para leer numeros (enteros o decimales) de un archivo y sumarlos.]  
 
 ## Uso del script
