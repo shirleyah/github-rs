@@ -1,10 +1,9 @@
-# [Nombre del script]
-
+# [Nombre del script]...
 
 [Agregar la descripcion de la funcionalidad del script. Por ejemplo:
 Este es un script de Python disenado para leer numeros (enteros o decimales) de un archivo y sumarlos.]  
 
-## Uso del script
+## Uso del script...
 
 [Describir la manera en que se usa/ejecuta el script, especificando los parametros que recibe, archivos o valores de entrada, por ejemplo:
 
@@ -20,7 +19,12 @@ donde `[archivo]` es el nombre del archivo que contiene los numeros a sumar. El 
 
 ## Salida del script
 
+
+
 [Describir el resultado que se obtendra al ejecutar el script, por ejemplo: El script imprimira la suma de los numeros en la consola.] 
+
+
+
 
 ## Control de errores
 
